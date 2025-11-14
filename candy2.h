@@ -4,7 +4,7 @@
 #include <fstream>
 using namespace std;
 
-//Abdullah Ali Khan, program 5, // this file is creating a struct for node
+//Abdullah Ali Khan, // this file is creating a struct for node
 
 const int SIZE {21};
 struct node 
