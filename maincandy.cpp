@@ -1,6 +1,6 @@
 #include "candy2.h"
 
-//Abdullah Ali Khan, program 5, // this file calls all the fuctions
+//Abdullah Ali Khan, // this file calls all the fuctions
 
 int main()
 {
