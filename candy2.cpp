@@ -2,7 +2,7 @@
 #include <cstring>  
 #include "candy2.h"
 using namespace std;
-//Abdullah Ali Khan, program 5, // this file aske the user for information
+//Abdullah Ali Khan, // this file aske the user for information
 void insert_front(node*& head) {
     node* new_node = new node;
     char temp[100];
